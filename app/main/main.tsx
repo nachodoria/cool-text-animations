@@ -9,7 +9,7 @@ export default function Main() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-between py-24 px-40">
             <div className="z-10 max-w-2xl w-full items-center justify-between">
-                <h1 className="font-bold text-3xl antialiased">Text animations by Ignacio Doria&apos;</h1>
+                <h1 className="font-bold text-3xl antialiased">Text animations by Ignacio Doria</h1>
                 <h2 className="font-semibold pt-10 text-xl antialiased"> Framer-Motion Installation </h2>
                 <Snippet className="mt-6 " color="secondary">npm install framer-motion</Snippet>
                 <h2 className="font-semibold pt-10 text-xl antialiased">Intersection Observer API</h2>
