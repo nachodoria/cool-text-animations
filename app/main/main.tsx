@@ -17,7 +17,7 @@ export default function Main() {
                 <p className="pt-10 text-gray-500"> Once the framer-motion library is installed, we will create components that receive our text and give us back our desired improved and animated text! </p>
                 <Ease text="My name is Ignacio"></Ease> 
                 <SlideIn text="I'm a developer"></SlideIn>
-                <Stagger text="See you soon!"></Stagger>
+                <Stagger text="I love my job!"></Stagger>
             </div>
             <footer className="max-w-2xl w-full flex items-start justify-start pt-20 flex-col">
                 <p className="text-gray-500">Made By Ignacio Doria Oberman.</p>
