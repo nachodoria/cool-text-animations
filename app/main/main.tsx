@@ -10,7 +10,7 @@ export default function Main() {
             <div className="z-10 max-w-2xl w-full items-center justify-between">
                 <h1 className="font-bold text-3xl antialiased">Text animations by Ignacio Doria</h1>
                 <p className="pt-6 text-gray-500"> Hi! My name is Ignacio and I&apos;ve created a bunch of special animations for you to jazz up your projects! To make the most of these animations, I&apos;ve relied on <Link href="https://www.framer.com/motion/" target="_blank" color="secondary">Framer-motion</Link>, a motion library tailored for React.<br/> Also, if you want to add an amazing &quot;InView&quot; effect, add the <Link href="https://github.com/thebuilder/react-intersection-observer" target="_blank" color="secondary">Intersection Observer API</Link> which I&apos;ve used for the animations. Before you dive in, make sure you&apos;ve got those installed.<br/> Hope you enjoy can get something out of these!</p>
-                <p className="pt-6 text-gray-500">For all the animation codes visit my <Link color="success" href="https://github.com/nachodoria/cool-text-animations" target="_blank">Github</Link>.</p>
+                <p className="pt-6 text-gray-500">For all the animation codes visit my <Link color="secondary" href="https://github.com/nachodoria/cool-text-animations" target="_blank">Github</Link>.</p>
                 <h2 className="font-semibold pt-10 text-xl antialiased"> Framer-Motion Installation </h2>
                 <Snippet className="mt-6 " color="secondary">npm install framer-motion</Snippet>
                 <h2 className="font-semibold pt-10 text-xl antialiased">Intersection Observer API</h2>
