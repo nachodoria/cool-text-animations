@@ -21,7 +21,7 @@ export default function Main() {
                 <Stagger text="I love my job!"></Stagger>
             </div>
             <footer className="max-w-2xl w-full flex items-start justify-start pt-20 flex-col">
-                <p className="text-gray-500">Made By Ignacio Doria Oberman.</p>
+                <p className="text-gray-500">Made By Ignacio Doria Oberman. ©</p>
                 <Link color="primary" href="https://nachodoria.vercel.app" target="_blank">https://nachodoria.vercel.app</Link>
             </footer>
         </main>
